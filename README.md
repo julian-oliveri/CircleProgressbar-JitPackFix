@@ -12,6 +12,10 @@ to this
 
 ``` implementation 'com.github.julian-oliveri:CircleProgressbar-JitPackFix:v1.0.2' ```
 
+I wont be providing support for this but at least it compiles
+
+## The original readme
+
 # CircleProgressBar
 
 ![https://github.com/emre1512/CircleProgressBar](https://img.shields.io/badge/platform-Android-green.svg?style=flat-square)
