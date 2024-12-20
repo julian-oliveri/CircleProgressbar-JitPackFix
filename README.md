@@ -1,3 +1,11 @@
+## This is a fork so that it can be published on jitpack
+
+I did not change a single line of code, this is a fork for which i merged the pr from hilpitome
+
+the original did not build, and the pull request fixing it never got merged so this is it
+
+
+
 # CircleProgressBar
 
 ![https://github.com/emre1512/CircleProgressBar](https://img.shields.io/badge/platform-Android-green.svg?style=flat-square)
