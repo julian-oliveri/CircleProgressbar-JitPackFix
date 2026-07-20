@@ -1,6 +1,6 @@
 ## This is a fork so that it can be published on jitpack
 
-I did not change a single line of code (except for the errors I introduced myself), this is a fork for which i merged the pr from hilpitome
+I did not change a single line of code (except for the fix to the errors I introduced myself), this is a fork for which i merged the pr from hilpitome
 
 the original did not build, and the pull request fixing it never got merged so this is it
 
